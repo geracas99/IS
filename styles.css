@@ -1,0 +1,21 @@
+/* Define a style for the heading */
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+/* Define a style for the paragraph */
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  color:whitesmoke;
+  margin-bottom: 20px;
+}
+
+/* Define a style for the link */
+a {
+  color: blue;
+  text-decoration: none;
+}
